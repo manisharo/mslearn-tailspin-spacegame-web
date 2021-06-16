@@ -48,5 +48,3 @@ steps:
     command: 'build'
     arguments: '--no-restore --configuration Release'
  
- 
-linkgroup.com
